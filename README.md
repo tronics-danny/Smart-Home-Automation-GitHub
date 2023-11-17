@@ -8,7 +8,7 @@ Welcome to the Smart Home Automation project. This system provides automated con
 - This feature allows you to restrict who can have access to your home. You will be required to know the password or have an RFID card to access the main door.
 
 **Controlled Lighting**:
-- Our system enables you to control and monitor in real time the lighting in your home. On detecting presence of a person in a certain room, the lights will go on automaically unless manually overiden or switched off via the monitoring app.
+- Our system enables you to control and monitor in real-time the lighting in your home. On detecting the presence of a person in a certain room, the lights will go on automatically unless manually overridden or switched off via the monitoring app.
 
 **Smoke Detection Alarm**:
 - The smoke detection alarm feature helps protect your home by monitoring for smoke and alerting you in case of an emergency.
@@ -27,11 +27,11 @@ Welcome to the Smart Home Automation project. This system provides automated con
 
 ## Usage
 
-1. **Automatic Door Control**: Access the "Door Control" section in the app or web dashboard to set rules for door automation. For example, you can schedule your front door to lock at 10 PM every night.
+1. **Automatic Door Control**: Access your door by use of an RFID card or using your set password which you can share with the people you want to be able to have access to your home.
 
 2. **Controlled Lighting**: Control your lights in the "Lighting" section. Create schedules, change brightness, or set scenes to match your mood.
 
-3. **Smoke Detection Alarm**: In the "Security" section, configure the smoke alarm settings, and receive notifications in case of smoke detection.
+3. **Smoke, Gas, and Fire Detection Alarm**: In the "Security" section, configure the smoke alarm settings and receive notifications in case of smoke, fire, or gas leak. 
 
 4. **Room Temperature Control**: Set your desired temperature in the "Climate" section, and let the system manage the environment.
 
