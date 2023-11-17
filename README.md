@@ -4,7 +4,7 @@ Welcome to the Smart Home Automation project. This system provides automated con
 
 ## Features
 
-**Automatic Door Control**:
+**Automatic Door Control **:
 - This feature allows you to restrict who can have access to your home. You will be required to know the password or have an RFID card to access the main door.
 
 **Controlled Lighting**:
